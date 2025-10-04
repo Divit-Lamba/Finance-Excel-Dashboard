@@ -1,12 +1,13 @@
 # 💰 Financial Dashboard – Revenue Analytics  
 
-An interactive **Excel Financial Dashboard** designed to analyze revenue trends and sales performance across regions, products, and demographics.  
-It demonstrates a full analytics workflow, from **data cleaning** to **insightful visualization** using Excel’s advanced tools.  
+An interactive **Power BI Financial Dashboard** designed to analyze revenue trends and sales performance across regions, products, and demographics.  
+It showcases a complete analytics workflow — from **data modeling and transformation** to **dynamic visualizations** for actionable insights.  
 
 ---
 
 ## 🔧 Key Features  
-- **Data Cleaning:** Refined and standardized regional, product, and demographic data.  
+- **Data Preparation:**  
+  - Cleaned, standardized, and transformed regional, product, and demographic data using Power Query.  
 - **KPIs & Metrics:**  
   - Total and Average Revenue by Region, Product, and Gender  
   - Yearly and Quarterly Revenue Trends  
@@ -14,16 +15,17 @@ It demonstrates a full analytics workflow, from **data cleaning** to **insightfu
 - **Visualizations:**  
   - Clustered Column & Bar Charts for Regional and Product Revenue  
   - Pie Charts for Gender and Product Contribution  
-  - Line Chart for Quarterly/Yearly Trends  
-- **Interactive Slicers:**  
-  - Filter by **Region**, **Country**, **Gender**, **Age Group**, and **Quarter** simultaneously.  
+  - Line Charts for Quarterly/Yearly Trends  
+  - Cards & KPI Tiles for high-level metrics  
+- **Interactive Filters & Slicers:**  
+  - Dynamic filtering by **Region**, **Country**, **Gender**, **Age Group**, and **Quarter**  
 
 ---
 
 ## 💡 Insights  
-- Highlighted **top-performing products and regions** driving revenue.  
-- Showed **gender-based and rank-level contributions** to overall sales.  
-- Revealed **quarterly and yearly growth patterns** supporting financial forecasting.  
+- Identified **top-performing products and regions** driving revenue.  
+- Showcased **gender-based and rank-level contributions** to overall sales.  
+- Revealed **quarterly and yearly growth patterns**, aiding financial forecasting and strategy.  
 
 ---
 
