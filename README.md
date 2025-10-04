@@ -1,7 +1,7 @@
 # 💰 Financial Dashboard – Revenue Analytics  
 
 An interactive **Excel Financial Dashboard** designed to analyze revenue trends and sales performance across regions, products, and demographics.  
-It demonstrates a full analytics workflow — from **data cleaning** to **insightful visualization** using Excel’s advanced tools.  
+It demonstrates a full analytics workflow, from **data cleaning** to **insightful visualization** using Excel’s advanced tools.  
 
 ---
 
