@@ -28,4 +28,4 @@ It demonstrates a full analytics workflow, from **data cleaning** to **insightfu
 ---
 
 ## 📄 Project File  
-👉 [Click here to view/download the Financial Dashboard](https://github.com/Divit-Lamba/Finance-Excel-Dashboard/blob/main/Finance%20Dashboard.xlsx)
+👉 [Click here to view/download the Financial Dashboard](https://github.com/Divit-Lamba/Finance-Excel-Dashboard/blob/main/finance%20dashboard.pbix)
